@@ -8,4 +8,4 @@ Reputation can be thought of as the collective judgment about a certain person o
 
 However, the current paradigm of online reputation systems are almost exclusively built on scalars. This is problematic, as much is lost when our multifaceted skills, abilities and relationships are collapsed into uni-dimensional social credit scores.
 
-Multi-dimensional reputation systems offer an alternative. With language models, we have the ability to create such systems from textual interactions that capture the nuance list in scalars, and thus help us determine trustworthiness and legitimacy contextually within a social group.
+Multi-dimensional reputation systems offer an alternative. With language models, we have the ability to create such systems from textual interactions that capture the nuance lost in scalars, and thus help us determine trustworthiness and legitimacy contextually within a social group.
